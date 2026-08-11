@@ -186,8 +186,6 @@ This project demonstrates the design and simulation of a **16×8 ROM using Veril
 
 The project provides a basic understanding of memory modeling, address decoding, Verilog HDL, testbench development, and digital simulation.
 
-## Author
-
-**Your Name**
+ Author Sunitha 
 
 GitHub: `your-github-username`
